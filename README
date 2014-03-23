@@ -1,1 +1,3 @@
-Replace md5hash.au3 in the source folder for md5hash.  Compile.  I will make a build script soon.
+#md5hash Extended
+
+This is an update of wraithdu's md5hash - once upon a time it was available on the portableapps.com forums.  I wanted the program to compare hashes, which wraithdu told me to implement.  So I buggered up the autoit code enough to have it do that.
